@@ -9,4 +9,4 @@ on:
 
 jobs:
   build:
-    uses: izzy2fancy/.github/.github/workflows/android-studio.yml@master
+    uses: izzy2fancy/.github/.github/workflows/app-build.yml@master
