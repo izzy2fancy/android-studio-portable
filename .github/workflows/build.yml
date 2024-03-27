@@ -9,4 +9,4 @@ on:
 
 jobs:
   build:
-    uses: portapps/.github/.github/workflows/app-build.yml@master
+    uses: izzy2fancy/.github/.github/workflows/android-studio.yml@master
